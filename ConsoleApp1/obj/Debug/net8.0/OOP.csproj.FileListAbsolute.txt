@@ -1,0 +1,14 @@
+F:\Programowanie-Obiektowe\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\OOP.exe
+F:\Programowanie-Obiektowe\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\OOP.deps.json
+F:\Programowanie-Obiektowe\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\OOP.runtimeconfig.json
+F:\Programowanie-Obiektowe\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\OOP.dll
+F:\Programowanie-Obiektowe\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\OOP.pdb
+F:\Programowanie-Obiektowe\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\OOP.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programowanie-Obiektowe\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\OOP.AssemblyInfoInputs.cache
+F:\Programowanie-Obiektowe\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\OOP.AssemblyInfo.cs
+F:\Programowanie-Obiektowe\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\OOP.csproj.CoreCompileInputs.cache
+F:\Programowanie-Obiektowe\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\OOP.dll
+F:\Programowanie-Obiektowe\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\OOP.dll
+F:\Programowanie-Obiektowe\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\OOP.pdb
+F:\Programowanie-Obiektowe\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\OOP.genruntimeconfig.cache
+F:\Programowanie-Obiektowe\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\OOP.dll
