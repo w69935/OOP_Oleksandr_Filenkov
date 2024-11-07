@@ -1,4 +1,5 @@
-﻿using System;
+﻿using OOP.Constructions.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -12,11 +13,11 @@ namespace OOP.Constructions.DTO
             Height = 54;
             Width = 32;
             Entrances = 6;
-            BuildMaterial = "Unknown";
+            BuildMaterial = BuildMaterialEnum.Wood;
         }
         public float Height { get; set; }
         public float Width { get; set; }
         public int Entrances { get; set; }
-        public string BuildMaterial {  get; set; }
+        public BuildMaterialEnum BuildMaterial {  get; set; }
     }
 }

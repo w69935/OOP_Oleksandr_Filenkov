@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\w69935\\source\\repos\\OOP_Oleksandr_Filenkov\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{519A657D-FB66-48BA-93B1-0F6F55BD95B9}|ConsoleApp1\\OOP.csproj|c:\\users\\w69935\\source\\repos\\oop_oleksandr_filenkov\\consoleapp1\\constructions\\dto\\createconstructiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{519A657D-FB66-48BA-93B1-0F6F55BD95B9}|ConsoleApp1\\OOP.csproj|solutionrelative:consoleapp1\\constructions\\dto\\createconstructiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{519A657D-FB66-48BA-93B1-0F6F55BD95B9}|ConsoleApp1\\OOP.csproj|c:\\users\\w69935\\source\\repos\\oop_oleksandr_filenkov\\consoleapp1\\constructions\\models\\buildmaterialenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{519A657D-FB66-48BA-93B1-0F6F55BD95B9}|ConsoleApp1\\OOP.csproj|solutionrelative:consoleapp1\\constructions\\models\\buildmaterialenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{519A657D-FB66-48BA-93B1-0F6F55BD95B9}|ConsoleApp1\\OOP.csproj|c:\\users\\w69935\\source\\repos\\oop_oleksandr_filenkov\\consoleapp1\\constructions\\construction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{519A657D-FB66-48BA-93B1-0F6F55BD95B9}|ConsoleApp1\\OOP.csproj|solutionrelative:consoleapp1\\constructions\\construction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{519A657D-FB66-48BA-93B1-0F6F55BD95B9}|ConsoleApp1\\OOP.csproj|c:\\users\\w69935\\source\\repos\\oop_oleksandr_filenkov\\consoleapp1\\residentalbuildings\\residentalbuilding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{519A657D-FB66-48BA-93B1-0F6F55BD95B9}|ConsoleApp1\\OOP.csproj|solutionrelative:consoleapp1\\residentalbuildings\\residentalbuilding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{519A657D-FB66-48BA-93B1-0F6F55BD95B9}|ConsoleApp1\\OOP.csproj|c:\\users\\w69935\\source\\repos\\oop_oleksandr_filenkov\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{519A657D-FB66-48BA-93B1-0F6F55BD95B9}|ConsoleApp1\\OOP.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{519A657D-FB66-48BA-93B1-0F6F55BD95B9}|ConsoleApp1\\OOP.csproj|c:\\users\\w69935\\source\\repos\\oop_oleksandr_filenkov\\consoleapp1\\oop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{519A657D-FB66-48BA-93B1-0F6F55BD95B9}|ConsoleApp1\\OOP.csproj|solutionrelative:consoleapp1\\oop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{519A657D-FB66-48BA-93B1-0F6F55BD95B9}|ConsoleApp1\\OOP.csproj|c:\\users\\w69935\\source\\repos\\oop_oleksandr_filenkov\\consoleapp1\\industrialhalls\\industrialhall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{519A657D-FB66-48BA-93B1-0F6F55BD95B9}|ConsoleApp1\\OOP.csproj|solutionrelative:consoleapp1\\industrialhalls\\industrialhall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{519A657D-FB66-48BA-93B1-0F6F55BD95B9}|ConsoleApp1\\OOP.csproj|c:\\users\\w69935\\source\\repos\\oop_oleksandr_filenkov\\consoleapp1\\constructions\\construction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{519A657D-FB66-48BA-93B1-0F6F55BD95B9}|ConsoleApp1\\OOP.csproj|solutionrelative:consoleapp1\\constructions\\construction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{519A657D-FB66-48BA-93B1-0F6F55BD95B9}|ConsoleApp1\\OOP.csproj|c:\\users\\w69935\\source\\repos\\oop_oleksandr_filenkov\\consoleapp1\\constructions\\dto\\createconstructiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{519A657D-FB66-48BA-93B1-0F6F55BD95B9}|ConsoleApp1\\OOP.csproj|solutionrelative:consoleapp1\\constructions\\dto\\createconstructiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{519A657D-FB66-48BA-93B1-0F6F55BD95B9}|ConsoleApp1\\OOP.csproj|c:\\users\\w69935\\source\\repos\\oop_oleksandr_filenkov\\consoleapp1\\constructions\\models\\buildmaterialenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{519A657D-FB66-48BA-93B1-0F6F55BD95B9}|ConsoleApp1\\OOP.csproj|solutionrelative:consoleapp1\\constructions\\models\\buildmaterialenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,73 +34,82 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ResidentalBuilding.cs",
+              "DocumentMoniker": "C:\\Users\\w69935\\Source\\Repos\\OOP_Oleksandr_Filenkov\\ConsoleApp1\\ResidentalBuildings\\ResidentalBuilding.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\ResidentalBuildings\\ResidentalBuilding.cs",
+              "ToolTip": "C:\\Users\\w69935\\Source\\Repos\\OOP_Oleksandr_Filenkov\\ConsoleApp1\\ResidentalBuildings\\ResidentalBuilding.cs",
+              "RelativeToolTip": "ConsoleApp1\\ResidentalBuildings\\ResidentalBuilding.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T09:54:01.692Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "IndustrialHall.cs",
+              "DocumentMoniker": "C:\\Users\\w69935\\Source\\Repos\\OOP_Oleksandr_Filenkov\\ConsoleApp1\\IndustrialHalls\\IndustrialHall.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\IndustrialHalls\\IndustrialHall.cs",
+              "ToolTip": "C:\\Users\\w69935\\Source\\Repos\\OOP_Oleksandr_Filenkov\\ConsoleApp1\\IndustrialHalls\\IndustrialHall.cs",
+              "RelativeToolTip": "ConsoleApp1\\IndustrialHalls\\IndustrialHall.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T09:52:56.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "BuildMaterialEnum.cs",
               "DocumentMoniker": "C:\\Users\\w69935\\source\\repos\\OOP_Oleksandr_Filenkov\\ConsoleApp1\\Constructions\\Models\\BuildMaterialEnum.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Constructions\\Models\\BuildMaterialEnum.cs",
               "ToolTip": "C:\\Users\\w69935\\source\\repos\\OOP_Oleksandr_Filenkov\\ConsoleApp1\\Constructions\\Models\\BuildMaterialEnum.cs",
               "RelativeToolTip": "ConsoleApp1\\Constructions\\Models\\BuildMaterialEnum.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-31T10:13:40.969Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "CreateConstructionDto.cs",
               "DocumentMoniker": "C:\\Users\\w69935\\source\\repos\\OOP_Oleksandr_Filenkov\\ConsoleApp1\\Constructions\\DTO\\CreateConstructionDto.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Constructions\\DTO\\CreateConstructionDto.cs",
               "ToolTip": "C:\\Users\\w69935\\source\\repos\\OOP_Oleksandr_Filenkov\\ConsoleApp1\\Constructions\\DTO\\CreateConstructionDto.cs",
               "RelativeToolTip": "ConsoleApp1\\Constructions\\DTO\\CreateConstructionDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-31T09:52:19.077Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Construction.cs",
               "DocumentMoniker": "C:\\Users\\w69935\\source\\repos\\OOP_Oleksandr_Filenkov\\ConsoleApp1\\Constructions\\Construction.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Constructions\\Construction.cs",
               "ToolTip": "C:\\Users\\w69935\\source\\repos\\OOP_Oleksandr_Filenkov\\ConsoleApp1\\Constructions\\Construction.cs",
               "RelativeToolTip": "ConsoleApp1\\Constructions\\Construction.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAIwBgAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAkwD0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-17T08:57:21.957Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "OOP.csproj",
-              "DocumentMoniker": "C:\\Users\\w69935\\Source\\Repos\\OOP_Oleksandr_Filenkov\\ConsoleApp1\\OOP.csproj",
-              "RelativeDocumentMoniker": "ConsoleApp1\\OOP.csproj",
-              "ToolTip": "C:\\Users\\w69935\\Source\\Repos\\OOP_Oleksandr_Filenkov\\ConsoleApp1\\OOP.csproj",
-              "RelativeToolTip": "ConsoleApp1\\OOP.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-17T08:33:15.964Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\w69935\\source\\repos\\OOP_Oleksandr_Filenkov\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
               "ToolTip": "C:\\Users\\w69935\\source\\repos\\OOP_Oleksandr_Filenkov\\ConsoleApp1\\Program.cs",
               "RelativeToolTip": "ConsoleApp1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-17T08:33:02.351Z",
               "EditorCaption": ""

@@ -1,4 +1,5 @@
 ﻿using OOP.Constructions.DTO;
+using OOP.Constructions.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -16,7 +17,7 @@ namespace OOP.Constructions
             Width = 45;
             Entrances = 4;
             HumanCapacity = 12;
-            BuildMaterial = "Material";
+            BuildMaterial = BuildMaterialEnum.Wood;
             Roofing = "Asbestos";
         }
         public Construction(CreateConstructionDto construction)
@@ -27,7 +28,7 @@ namespace OOP.Constructions
             HumanCapacity = 2;
             BuildMaterial = construction.BuildMaterial;
         }
-        public Construction(float height, float width, int entrances, int humancapacity, string buildmaterial,string roofing)
+        public Construction(float height, float width, int entrances, int humancapacity, BuildMaterialEnum buildmaterial, string roofing)
         {
             Height = height;
             Width = width;
@@ -41,10 +42,10 @@ namespace OOP.Constructions
         public float Width { get; set; }
         public int Entrances { get; set; }
         public int HumanCapacity { get; set; }
-        public string Roofing {  get; set; }
-        private string _buildMaterial { get; set; }
-        public string BuildMaterial
-            
+        public string Roofing { get; set; }
+        private BuildMaterialEnum _buildMaterial { get; set; }
+        public BuildMaterialEnum BuildMaterial
+
         {
             get
             {
@@ -52,17 +53,31 @@ namespace OOP.Constructions
             }
             set
             {
-                if (string.IsNullOrEmpty(value))
-                {
-                    throw new ArgumentNullException("value cannot be null");
-                }
+                //if (value == null)
+                //{
+                //    throw new ArgumentNullException("value cannot be null");
+                //}
                 _buildMaterial = value;
             }
 
         }
+        public float getSquareCost()
+        {
+            if (BuildMaterial == BuildMaterialEnum.Concrete)
+            {
+                return 0.87f * Height * Width * 0.9f;
+            }
+
+               else if (BuildMaterial == BuildMaterialEnum.Brik)
+                {
+                    return 0.8f * Height * Width * 0.9f;
+                }
+            return 0.78f * Height * Width * 0.9f;
+
+        }
     }
 }
-    
+
 //1.Height typu zmiennoprzecinkowego
 //2. Width typu zmiennoprzecinkowego
 //3. Entrances typu liczba całkowita
