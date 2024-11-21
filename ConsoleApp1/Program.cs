@@ -1,4 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
+using OOP.AbstractCommercialBuildings;
+using OOP.BuildingWrapper;
+using OOP.CommercialBuilding;
 using OOP.Constructions;
 using OOP.Constructions.DTO;
 using OOP.Constructions.Models;
@@ -34,9 +37,23 @@ Console.WriteLine(construction3.Width);
 Console.WriteLine(construction3.Entrances);
 Console.WriteLine(construction3.BuildMaterial);
 
-Console.WriteLine(construction1.getSquareCost());
+Console.WriteLine(construction1.GetSquareCost());
 
 var resbuild = new ResidentalBuilding(3);
 var indhall = new IndustrialHall();
 Console.WriteLine(resbuild.Entrances);
 Console.WriteLine(indhall.BuildMaterial);
+
+var wrapper1 = new BuildingWrapper(resbuild);
+var wrapper2 = new BuildingWrapper(indhall);
+Console.WriteLine(wrapper1.GetWrappedSquareCost());
+Console.WriteLine(wrapper2.GetWrappedSquareCost());
+var commercialBuilding = new CommercialBuilding(new CreateConstructionDto()
+{
+    BuildMaterial = BuildMaterialEnum.Wood,
+    Width = 100,
+    Height = 100,
+    Entrances = 2,
+}, "B2B");
+
+commercialBuilding.OpenBusiness();
